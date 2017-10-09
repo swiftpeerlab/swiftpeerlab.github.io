@@ -16,7 +16,13 @@ This group is devoted to Swift, the programming language introduced by Apple at 
 
 ## Location
 
-???
+Sopa Barcelona
+
+Carrer de Roc Boronat, 114
+
+08018
+
+Barcelona
 
 ## Time
 
@@ -54,7 +60,13 @@ Este grupo está dedicado a Swift, el lenguaje de programación introducido por 
 
 ## Ubicación
 
-???
+Sopa Barcelona
+
+Carrer de Roc Boronat, 114
+
+08018
+
+Barcelona
 
 ## Hora
 
