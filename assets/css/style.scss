@@ -1,6 +1,11 @@
-$header-heading-color:   #FF2600 !default;
-$section-headings-color: #FF2600 !default;
-$header-bg-color: #FF2600 !default;
-$header-bg-color-secondary: #F88636 !default;
+$header-heading-color:   #FF2600;
+$section-headings-color: #FF2600;
+$header-bg-color: #FF2600;
+$header-bg-color-secondary: #F88636;
 
 @import "{{ site.theme }}";
+
+$header-heading-color:   #FF2600;
+$section-headings-color: #FF2600;
+$header-bg-color: #FF2600;
+$header-bg-color-secondary: #F88636;
