@@ -2,6 +2,10 @@
 
 [Español (Spanish)](#español)
 
+## Meetup
+
+Sign up [here](https://www.meetup.com/ThoughtWorks-Barcelona/events/244078958/)
+
 ## Idea
 
 The idea of Peer Lab is simple, but profound: developers gather in a physical space to work.
@@ -45,6 +49,10 @@ We follow the [Code of Conduct](https://info.thoughtworks.com/code-of-conduct-en
 tl;dr: Don’t be a Jerk :)
 
 # Español
+
+## Meetup
+
+Registrate [aquí](https://www.meetup.com/ThoughtWorks-Barcelona/events/244078958/)
 
 ## Idea
 
