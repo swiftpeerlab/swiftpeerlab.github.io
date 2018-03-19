@@ -4,7 +4,7 @@
 
 ## Meetup
 
-Sign up [here](https://www.meetup.com/ThoughtWorks-Barcelona/events/244078958/)
+Sign up [here](https://www.meetup.com/ThoughtWorks-Barcelona/events/)
 
 ## Idea
 
@@ -38,10 +38,6 @@ Swift developers who are motivated to spend their Saturday mornings coding but d
 
 Never tried Swift but interested in getting started? No worries, please feel free to join us, and we can guide you to the fun of Swift development! 
 
-## Call for Speakers
-
-If you have something to share or offer the community, please submit a talk proposal via this short [form](https://goo.gl/forms/WaNQE3iERm2TIXRw1).
-
 ## Code of Conduct
 
 We follow the [Code of Conduct](https://info.thoughtworks.com/code-of-conduct-en.html) provided by ThoughtWorks.
@@ -52,7 +48,7 @@ tl;dr: Don’t be a Jerk :)
 
 ## Meetup
 
-Registrate [aquí](https://www.meetup.com/ThoughtWorks-Barcelona/events/244078958/)
+Registrate [aquí](https://www.meetup.com/ThoughtWorks-Barcelona/events/)
 
 ## Idea
 
@@ -85,10 +81,6 @@ Todos los sábados, de 10:30 a 12:30
 Los desarrolladores de Swift que están motivados a pasar sus mañanas de los sábados programando pero no quieren hacerlo solos - todos los niveles de experiencia son bienvenida!
 
 ¿Nunca has probado a Swift pero estás interesado en empezar? No te preocupes, por favor siéntete libre de unirte, y podemos guiarte a la diversión del desarrollo en Swift!
-
-## Call for papers
-
-Si tienes algo que compartir o ofrecer a la comunidad, envía una propuesta a través de este breve [formulario](https://goo.gl/forms/WaNQE3iERm2TIXRw1).
 
 ## Código de Conducta
 
