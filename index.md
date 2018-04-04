@@ -1,4 +1,7 @@
-# Swift Peer Lab Barcelona
+---
+layout: home
+---
+![logo](assets/images/logo.jpg)
 
 [Español (Spanish)](#español)
 
